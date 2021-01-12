@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **C# and mastering javascript**
+- 🌱 I’m currently learning **GraphQL and mastering javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darkquilius?tab=repositories](https://github.com/darkquilius?tab=repositories)
 
