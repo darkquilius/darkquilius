@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrew Reeves</h1>
 <h3 align="center">A Georgia Tech credited Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working at **Infosys Limited**
 
-- 🌱 I’m currently learning **GraphQL and mastering javascript**
+- 🌱 I’m currently learning **SDET and All It Has To Offer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darkquilius?tab=repositories](https://github.com/darkquilius?tab=repositories)
 
-- 💬 Ask me about **React, Node, Mongodb or any fun techs**
+- 💬 Ask me about **React, Node, Mongodb, Integration Testing or any fun techs**
 
 - 📫 How to reach me **andrew.c.reeves27@gmail.com**
 
