@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Reeves</h1>
 <h3 align="center">A Georgia Tech credited Full Stack Developer</h3>
 
-- 🔭 I’m currently working at **Infosys Limited**
+- 🔭 I’m currently working at **Bakkt**
 
 - 🌱 I’m currently learning **SDET and All It Has To Offer**
 
